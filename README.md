@@ -1,2 +1,19 @@
-# react-timer-app
-building a basic timer react app where you can add/delete timers, start and pause, or edit.
+### Running the app
+
+1. Ensure you have `npm` installed.
+
+Follow the instructions for your platform [here](https://github.com/npm/npm).
+
+2. Install all dependencies:
+
+````
+npm install
+````
+
+3. Boot the HTTP server
+
+````
+npm run server
+````
+
+The server is now running at [localhost:3000](localhost:3000)
