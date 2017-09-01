@@ -347,9 +347,6 @@ const Timer = React.createClass({
 						</span>
 					</div>
 				</div>
-				<div className='ui buttom attached blue basic button'>
-					Start
-				</div>
 				<TimerActionButton
 					timerIsRunning={!!this.props.runningSince}
 					onStartClick={this.handleStartClick}
